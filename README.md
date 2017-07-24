@@ -29,7 +29,7 @@ Create a new buterfly, all by yourself! :)
 feed
  
 A well-fed butterfly is a happy butterfly.
-The Perl gods like happy butterflies.
+Allah likes happy butterflies.
 Too much food makes a sad butterfly though. :(
 No one likes a sad butterfly.
  
@@ -55,12 +55,16 @@ try to take a nap will make it a sad butterfly. :(
  
 sacrifice
  
-Ah, we finally have reached the last goal of all good butterflies. Sacrificing to the Perl gods. 
+Ah, we finally have reached the last goal of all good butterflies. Sacrificing to Allah
 You'd best hope your butterfly was happy enough, or death to your Perl script will come! :(
  
 AUTHOR
  
 John Scoles <byterock@cpan.org>
+
+MODIFIED BY
+
+Allen Hai <hai@growinfinitely.com>
  
 LICENSE
  
