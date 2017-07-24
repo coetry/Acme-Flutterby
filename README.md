@@ -12,7 +12,7 @@ SYNOPSIS
   my $Flutterby = Flutterby->new;
   $Flutterby.feed;
   $Flutterby.play;
-  $flutterby.sacrifice(to-who=>'perl_gods');
+  $flutterby.sacrifice(to-who=>'Allah');
  
 DESCRIPTION
  
