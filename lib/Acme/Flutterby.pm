@@ -43,11 +43,11 @@ class Flutterby is export {
     }
 
     method sacrifice(Str :$to-who!) {
-        if (lc($to-who) ne 'perl_gods') {
-            say("You can only sacrifice to a Perl God");
+        if (lc($to-who) ne 'Allah') {
+            say("You can only sacrifice to Allah");
         }
         if (self.happiness > 10) {
-            say "Congradulations!! Your sacrificial Flutterby has appeased the Perl gods :) !";
+            say "Congradulations!! Your sacrificial Flutterby has been sacrificed to Allah while happy~";
             exit 0;
         } else {
             say("Sorry, your Flutterby was not happy enough.  Try to raise it better next time :( !");
